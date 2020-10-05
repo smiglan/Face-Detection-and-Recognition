@@ -27,6 +27,8 @@ rate (i.e, 1-false negative rate).
 * Use Harr feature. Compute the value of each Harr feature for each sample. Each feature corresponds to a weak learner. Determine the threshold between face samples and non-face samples for all the weak learners.
 Calculate the classification error for each weak learner and draw the best ten features  
 
+<img align="center" width = 400 src="images/Haar.JPG">
+
 * Implement the Adaboost Algorithm and plot the ROC
 
 ## Convolutional Neural Networks for face image classification
