@@ -50,7 +50,7 @@ __Face Recognition__ - "who is this person?". For example, the video lecture sho
 
 FaceNet learns a neural network that encodes a face image into a vector of 128 numbers. By comparing two such vectors, you can then determine if two pictures are of the same person.
 
-In this assignment, the following things were implemented:  
+In this project, the following things were implemented:  
 
 * Implement the triplet loss function
 * Use a pretrained model to map face images into 128-dimensional encodings
